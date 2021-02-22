@@ -26,7 +26,7 @@ The usage is described in the README files within each subfolder.
 ## Quick start
 The JAMLIB can be downloaded in two ways:
 
-* [Download the latest release](https://github.com/QCDHUB/JAM15/archive/master.zip).
+* [Download the latest release](https://github.com/QCDHUB/JAM15/master.zip).
 *  Clone the repo:  `$ git https://github.com/QCDHUB/JAM15.git`.
 
 To get the latest update, pull from your local repo, e.g. `$ git pull`.
