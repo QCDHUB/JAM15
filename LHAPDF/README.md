@@ -11,11 +11,7 @@ Grids can be downlaoded in two ways:
 
 Either way, you need to (unzip and) copy the grids to your local LHAPDF grid folder. The default location can be found, e.g., in the output of the `$ lhapdf` command. Further info on the LHAPDF interface installation and usage can be found on the [LHAPDF project web page](https://lhapdf.hepforge.org/).
 
-A test ipython notebook is provided for convenience and to demonstrate usage of JAM15 python code and LHAPDF grids. In the future python, C++ and fortran scripts will be added; for the moment you may have a look at the  [code examples](https://lhapdf.hepforge.org/codeexamples.html) in the LHAPDF project web page.
-
 ## Grids
-
-**Note:** Grids with "preliminary" status or with version "v.-1" are in development and should be used with caution.
 
 | Name                                         | Info                                            | Reference                                                      | Status | Notes                                       |
 | :--:                                         | :--:                                            | :--:                                                           | :--:   | :--:                                        |
